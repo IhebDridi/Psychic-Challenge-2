@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychic", "Psychic\Psychic.csproj", "{BEA7414B-8D84-4372-BB66-C70570619848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychic-Test", "Psychic-Test\Psychic-Test.csproj", "{EB88F481-8A38-4799-BD0A-C57E8074C906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA7414B-8D84-4372-BB66-C70570619848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA7414B-8D84-4372-BB66-C70570619848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA7414B-8D84-4372-BB66-C70570619848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA7414B-8D84-4372-BB66-C70570619848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB88F481-8A38-4799-BD0A-C57E8074C906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB88F481-8A38-4799-BD0A-C57E8074C906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB88F481-8A38-4799-BD0A-C57E8074C906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB88F481-8A38-4799-BD0A-C57E8074C906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
